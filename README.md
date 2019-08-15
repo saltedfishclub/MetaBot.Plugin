@@ -1,0 +1,2 @@
+# MetaBot.Plugin
+api collection
